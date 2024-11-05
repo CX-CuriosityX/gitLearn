@@ -1,1 +1,2 @@
 Hello I am building a text file which may also be a program source code.
+Hi now I am making some changes and lets see if git can detect it move the file to modified area.
